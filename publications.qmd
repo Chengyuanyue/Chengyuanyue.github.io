@@ -8,10 +8,10 @@ editor: visual
 
 ## Publications
 
-[1].  **Yue C**, Chen B, Chen L, Xiong L, Gong C，Wang Z, Liu G, Li W, Wang R, Tang Y. KG-CNNDTI: A Knowledge Graph-Enhanced Prediction Model for Drug-Target Interactions and Application in Virtual Screening of Natural Products against Alzheimer's Disease. Chin J Nat Medicines. 2025 in press.[--Link--](http://www.cjnmcpu.com/article/doi/10.1016/S1875-5364(25)60980-0)
+[1].  **Yue C**, Chen B, Chen L, Xiong L, Gong C，Wang Z, Liu G, Li W, Wang R, Tang Y. KG-CNNDTI: A Knowledge Graph-Enhanced Prediction Model for Drug-Target Interactions and Application in Virtual Screening of Natural Products against Alzheimer's Disease. **Chin J Nat Medicines**. 2025 in press.[--Link--](http://www.cjnmcpu.com/article/doi/10.1016/S1875-5364(25)60980-0)
 
-[2].  Pan F, Xu Z, Liu ZH, Chen CY, Yu JW, Wu ZR, Wang Z, Chen L, **Yue CY**, Li WH, Liu GX, Huang J, Tang Y. ComplexDnet: A Network-Based Strategy to Discover Critical Targets and Screen Active Compounds for Complex Diseases. J Med Chem. 2025 Sep 25;68(18):19463-19481.[--Link--](https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c01682) 
+[2].  Pan F, Xu Z, Liu ZH, Chen CY, Yu JW, Wu ZR, Wang Z, Chen L, **Yue C**, Li WH, Liu GX, Huang J, Tang Y. ComplexDnet: A Network-Based Strategy to Discover Critical Targets and Screen Active Compounds for Complex Diseases. **J Med Chem**. 2025 Sep 25;68(18):19463-19481.[--Link--](https://pubs.acs.org/doi/10.1021/acs.jmedchem.5c01682) 
 
 [3].  **Yue C**, Chen B, Pan F, Wang Z, Yu H, Liu G, Li W, Wang R, Tang Y. TCnet: A Novel Strategy to Predict Target Combination of Alzheimer's Disease via Network-Based Methods. **J Chem Inf Model**. 2025 Apr 14;65(7):3866-3878.[--Link--](https://pubs.acs.org/doi/10.1021/acs.jcim.5c00172)
 
-[4].  Tan Y, Zhang Z, Li M, Pan F, Duan H, Huang Z, Deng H, Yu Z, Yang C, Shen G, Qi P, **Yue C**, Liu Y, Hong L, Yu H, Fan G, Tang Y. MedChatZH: A tuning LLM for traditional Chinese medicine consultations. Comput Biol Med. 2024 Apr;172:108290.[--Link--](https://www.sciencedirect.com/science/article/abs/pii/S0010482524003743)
+[4].  Tan Y, Zhang Z, Li M, Pan F, Duan H, Huang Z, Deng H, Yu Z, Yang C, Shen G, Qi P, **Yue C**, Liu Y, Hong L, Yu H, Fan G, Tang Y. MedChatZH: A tuning LLM for traditional Chinese medicine consultations. **Comput Biol Med**. 2024 Apr;172:108290.[--Link--](https://www.sciencedirect.com/science/article/abs/pii/S0010482524003743)
